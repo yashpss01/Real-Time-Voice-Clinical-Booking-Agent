@@ -1,0 +1,45 @@
+# Environments & Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache/
+.pytest_cache/
+.hypothesis/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.npm
+.eslintcache
+
+# SQLite Databases
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db

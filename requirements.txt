@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+websockets==12.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.30
+pg8000==1.31.1
+redis==5.0.4
+celery==5.4.0
+google-generativeai==0.5.4
+langgraph==0.0.60
+langchain-core==0.2.5
+numpy==1.26.4
+gTTS==2.5.1
+edge-tts==6.1.9
+pydub==0.25.1
+httpx==0.27.0
